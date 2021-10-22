@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-You can find my PDF version CV [here](/files/Li_CV.pdf).
+You can find my PDF version CV [here](https://li-yida.github.io/files/Li_CV.pdf).
 
 Education
 ======
