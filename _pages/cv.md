@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,7 @@ redirect_from:
 
 
 
+You can find my PDF version CV [here](/files/Li_CV.pdf).
 
 Education
 ======
