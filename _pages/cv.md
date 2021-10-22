@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-You can find my PDF version CV [here](https://liyida.github.io/files/Li_CV.pdf).
+You can find my PDF version CV [here](https://li-yida.github.io/liyida.github.io/files/Li_CV.pdf).
 
 Education
 ======
@@ -28,7 +28,7 @@ Fields
 Research
 ======
 * Working Papers
-  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks.([*Job Market Paper*](http://google.com))
+  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks.([*Job Market Paper*](https://li-yida.github.io/liyida.github.io/files/paper1.pdf))
   * Macroeconomic Connections to Foreign Exchange Risk Term Structure. (with [*Yu-chin Chen*](https://econ.washington.edu/people/yu-chin-chen) and *Jingyi Ren*)
   * Drivers of Euro Area Long-Term Sovereign Yields. (with [*Nazim Belhocine*](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=369168))
 
