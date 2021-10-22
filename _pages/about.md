@@ -17,7 +17,7 @@ If you don't know him, you could google him [here ](http://google.com)
 
 Something Pretty
 ======
-If you want to see a bigger him, [here it is](/images/profile.png)
+If you want to see a bigger him, [here it is](/images/profile.jpg)
 
 For more info
 ------
