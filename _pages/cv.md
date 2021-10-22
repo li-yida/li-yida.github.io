@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
 * B.A. in International Finance, Fudan University, China, 2014
