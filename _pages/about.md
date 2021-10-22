@@ -11,8 +11,7 @@ redirect_from:
 
 Welcome!
 ======
-This is a wonderful demo page made by the most talented person in the Li household. Yida, a promising young man, is set to be successful on the job market. 
-If you don't know him, you could google him [here ](http://google.com)
+I am still building the site... something [fun](http://google.com)
 
 
 Something Pretty
