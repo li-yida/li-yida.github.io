@@ -14,9 +14,9 @@ Welcome!
 I am still building the site... something [fun](http://google.com)
 
 
-Something Pretty
+Section2
 ======
-If you want to see a bigger him, [here it is](/images/profile.jpg)
+
 
 For more info
 ------
