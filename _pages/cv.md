@@ -15,9 +15,10 @@ You can find my PDF version CV [here](/files/Li_CV.pdf).
 
 Education
 ======
-* B.A. in International Finance, Fudan University, China, 2014
-* M.A. in Economics, University of Michigan, Ann Arbor 2016
 * Ph.D in Economics, University of Washington, 2022 (expected)
+* M.A. in Economics, University of Michigan, Ann Arbor 2016
+* B.A. in International Finance, Fudan University, China, 2014
+
 
 Fields
 ======
@@ -71,7 +72,7 @@ Teaching
   * Business Finance / Corporate Finance (Undergraduate)
   * Statistical Methods / Information Systems (Undergraduate)
 
-Skills
+Honors and Awards
 ======
 * Graduate School Scholarship, University of Washington, 2021
 * Alberta C. Corkery Endowed Fellowship, University of Washington, 2017
@@ -79,12 +80,10 @@ Skills
 * Xiyuan Undergraduate Research Grant, Fudan University, 2013
 * People’s Scholarship, Fudan University 2012, 2013
 
-Honors and Awards
+Skills
 ======
 * Programming:Stata, R, Matlab, Python, LATEX
 * Other: MS Excel, Bloomberg, Dealogic, Datastream
 * Language: English (full professional), Chinese (native)
   
-References
-======
-* do you want this part
+
