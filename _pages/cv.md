@@ -44,7 +44,7 @@ Research
   * Research Assistant, Financial Research Center, Fudan University, 2013-2014
   
 * Presentations
-  * 2021: European Central Bank (virtual), IMF(virtual)
+  * 2021: European Central Bank (virtual), IMF (virtual)
   * 2019, 2020: International Trade and Finance Seminar, University of Washington
 
 Professional Experience
