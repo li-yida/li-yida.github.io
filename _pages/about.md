@@ -15,4 +15,4 @@ I am a Ph.D. candidate in Economics at the University of Washington. My research
 
 Contact
 ------
-Email: [liyida [at] uw.edu](liyida@uw.edu)
+Email: liyida [at] uw.edu
