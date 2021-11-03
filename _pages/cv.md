@@ -16,7 +16,7 @@ You can find my PDF version CV [here](https://li-yida.github.io/files/Li_CV.pdf)
 Education
 ======
 * Ph.D. in Economics, University of Washington, 2022 (expected)
-* M.A. in Economics, University of Michigan, Ann Arbor 2016
+* M.A. in Economics, University of Michigan, Ann Arbor, 2016
 * B.A. in International Finance, Fudan University, China, 2014
 
 
