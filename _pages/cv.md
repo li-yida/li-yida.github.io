@@ -43,7 +43,7 @@ Research
   * Research Assistant to Prof. Dominick Bartelme, University of Michigan, 2015-2016
   * Research Assistant, Financial Research Center, Fudan University, 2013-2014
   
-* Seminar Presentations
+* Presentations
   * 2021: European Central Bank (virtual), IMF(virtual)
   * 2019, 2020: International Trade and Finance Seminar, University of Washington
 
