@@ -15,7 +15,7 @@ You can find my PDF version CV [here](https://li-yida.github.io/liyida.github.io
 
 Education
 ======
-* Ph.D in Economics, University of Washington, 2022 (expected)
+* Ph.D. in Economics, University of Washington, 2022 (expected)
 * M.A. in Economics, University of Michigan, Ann Arbor 2016
 * B.A. in International Finance, Fudan University, China, 2014
 
@@ -34,9 +34,9 @@ Research
 
 
 * Predoctoral Publications
-  * Network Dynamics of the Chinese Stock Market, 2014, The International Conference on Systems and Informatics. IEEE. (with Bing Li)
+  * Network Dynamics of the Chinese Stock Market, 2014, The International Conference on Systems and Informatics. IEEE. (with *Bing Li*)
   * Merger and Acquisition in Coal Industry, 2013, Productivity Research. (in Chinese)
-  * Real Estate Price and Inflation in China, 2013, Journal of Shanxi University. (with Guangyou Zhou, in Chinese)
+  * Real Estate Price and Inflation in China, 2013, Journal of Shanxi University. (with *Guangyou Zhou*, in Chinese)
   
 * Research Positions
   * Research Assistant to Prof. Yu-chin Chen, University of Washington, 2019
@@ -44,19 +44,19 @@ Research
   * Research Assistant, Financial Research Center, Fudan University, 2013-2014
   
 * Seminar Presentations
-  * European Central Bank (virtual), European Department, IMF, 2021
-  * International Trade and Finance Seminar, University of Washington, 2019,2020
+  * 2021: European Central Bank (virtual), IMF(virtual)
+  * 2019, 2020: International Trade and Finance Seminar, University of Washington
 
 Professional Experience
 ======
-* International Monetary Fund, Washington D.C., Summer 2021
-  * Fund Internship Program, *European Department*
+* International Monetary Fund, Washington D.C., 2021
+  * Fund Internship Program, European Department
 
-* China Merchants Securities, Shenzhen, China, Summer 2016
-  * Summer Analyst(think this could be more specific), *Investment Bank*
+* China Merchants Securities, Shenzhen, China, 2016
+  * Summer Analyst, Investment Bank
  
-* Guotai Junan Securities, Shanghai, China, Winter 2014
-  * Analyst, *Fixed Income, Currency and Commodity*
+* Guotai Junan Securities, Shanghai, China, 2014
+  * Analyst, Fixed Income, Currency and Commodity
 
   
 Teaching
@@ -82,7 +82,7 @@ Honors and Awards
 
 Skills
 ======
-* Programming:Stata, R, Matlab, Python, LATEX
+* Programming: Stata, R, Matlab, Python, LATEX
 * Other: MS Excel, Bloomberg, Dealogic, Datastream
 * Language: English (full professional), Chinese (native)
   
