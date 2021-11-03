@@ -28,7 +28,7 @@ Fields
 Research
 ======
 * Working Papers
-  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks.(*Job Market Paper*)
+  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks. (*Job Market Paper*)
   * Macroeconomic Connections to Foreign Exchange Risk Term Structure. (with [*Yu-chin Chen*](https://econ.washington.edu/people/yu-chin-chen) and *Jingyi Ren*)
   * Drivers of Euro Area Long-Term Sovereign Yields. (with *Nazim Belhocine*)
 
