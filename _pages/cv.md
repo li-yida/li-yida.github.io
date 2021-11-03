@@ -28,9 +28,9 @@ Fields
 Research
 ======
 * Working Papers
-  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks.([*Job Market Paper*](https://li-yida.github.io/liyida.github.io/files/paper1.pdf))
+  * Covered Interest Rate Parity Deviations: A Model of Dollar Funding of Global Banks.(*Job Market Paper*)
   * Macroeconomic Connections to Foreign Exchange Risk Term Structure. (with [*Yu-chin Chen*](https://econ.washington.edu/people/yu-chin-chen) and *Jingyi Ren*)
-  * Drivers of Euro Area Long-Term Sovereign Yields. (with [*Nazim Belhocine*](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=369168))
+  * Drivers of Euro Area Long-Term Sovereign Yields. (with *Nazim Belhocine*)
 
 
 * Predoctoral Publications
