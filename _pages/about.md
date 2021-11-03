@@ -11,13 +11,8 @@ redirect_from:
 
 Welcome!
 ======
-I am still building the site... something [fun](http://google.com)
+I am a Ph.D. candidate in Economics at the University of Washington. My research interests are International Finance, International Macroeconomics, and Applied Econometrics.
 
-
-Section2
-======
-
-
-For more info
+Contact
 ------
-More here.
+Email: [liyida [at] uw.edu]
