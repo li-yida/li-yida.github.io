@@ -11,7 +11,7 @@ author_profile: true
 
 Working Papers
 ===
-Covered Interest Rate Parity Deviations with a Global Banks Dollar Funding Model.
+Covered Interest Rate Parity Deviation and Global Banks Dollar Funding.
 
 > The persistence of covered interest rate parity (CIP) deviations has been a fundamental puzzle in international finance. Since global financial crisis (GFC), these deviations have implied a persistent dollar financing premium for banks versus other major currencies, and have long attracted the attention from academia and policy makers. In this paper, using a model of dollar funding of global banks in the foreign exchange (FX) swap market, I studies the contributions of credit spread differential, bank’s default premium, and the global banks’ liquidity needs, to CIP deviations. Then I empirically examine whether the data is consistent with the model predictions, and find that the relative significance of each component in CIP deviation has changed over time, as default premium was the dominant driver around GFC, credit spread differential has been contributing to the rise in CIP deviations in recent years. I also show that the CIP dollar basis for one currency is affected by the financial conditions in other countries, who may also participate swap transactions of USD in the FX market.
 
