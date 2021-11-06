@@ -29,7 +29,7 @@ Research
 ======
 * Working Papers
   * Covered Interest Rate Parity Deviations with a Global Banks Dollar Funding Model. (*Job Market Paper*)
-  * Macroeconomic Connections to Foreign Exchange Risk Term Structure. (with [*Yu-chin Chen*](https://econ.washington.edu/people/yu-chin-chen) and *Jingyi Ren*)
+  * Macroeconomic Connections to Foreign Exchange Risk Term Structure. (with *Yu-chin Chen* and *Jingyi Ren*)
   * Drivers of Euro Area Long-Term Sovereign Yields. (with *Nazim Belhocine*)
 
 
