@@ -21,7 +21,7 @@ Contact
 ------
 Email: liyida [at] uw.edu
 
-Department of Economics \\
+Department of Economics
 University of Washington
 305 Savery Hall 
-Seattle, WA 98195-3330, USA
+Seattle, WA 98195, USA
