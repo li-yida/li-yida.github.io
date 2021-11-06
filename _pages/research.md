@@ -17,7 +17,7 @@ Covered Interest Rate Parity Deviations with a Global Banks Dollar Funding Model
 
 
 Macroeconomic Connections to Foreign Exchange Risk Term Structure.
-(with [*Yu-chin Chen*](https://econ.washington.edu/people/yu-chin-chen) and *Jingyi Ren*)
+(with *Yu-chin Chen* and *Jingyi Ren*)
 
 > This paper empirically investigates the connection between macroeconomic fundamentals and time-varying currency risks captured by the FX risk term structure. We perform a VAR analysis to examine impulse responses of FX risk term structure to the shocks of macroeconomic events and find that production variables can generate a relatively consistent and systematic impact pattern, which suggests a potential macroeconomic connection. We also perform a direct single regression, regressing a large database macroeconomic series of eight different groups on the FX risk term structure and apply the group LASSO technique for variable selection. Variables among both macroeconomic fundamentals and financial series are commonly selected, implying that financial markets’ co-movements also exist in addition to potential macroeconomic connection.
 
