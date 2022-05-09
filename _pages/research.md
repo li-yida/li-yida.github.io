@@ -11,12 +11,12 @@ author_profile: true
 
 Working Papers
 ===
-[Covered Interest Rate Parity Deviation and Global Banks Dollar Funding.](https://li-yida.github.io/files/Li_Paper_1_CIP.pdf)
+Covered Interest Rate Parity Deviation and Global Banks Dollar Funding.
 
 > The persistence of covered interest rate parity (CIP) deviations has been a fundamental puzzle in international finance. Since global financial crisis (GFC), these deviations have implied a persistent dollar financing premium for banks versus other major currencies, and have long attracted the attention from academia and policy makers. In this paper, using a model of dollar funding of global banks in the foreign exchange (FX) swap market, I study the contributions of credit spread differential, bank’s default premium, and the global banks’ liquidity needs, to CIP deviations. Then I empirically examine whether the data is consistent with the model predictions, and find that the relative significance of each component in CIP deviation has changed over time, as default premium was the dominant driver around GFC, credit spread differential has been contributing to the rise in CIP deviations in recent years. I also show that the CIP dollar basis for one currency is affected by the financial conditions in other countries, who may also participate swap transactions of USD in the FX market.
 
 
-[Drivers of Euro Area Long-Term Sovereign Yields.](https://li-yida.github.io/files/Li_Paper_2_EAYield.pdf)
+Drivers of Euro Area Long-Term Sovereign Yields.
 (with *Nazim Belhocine*)
 
 > This paper uses a joint model of macroeconomic and term structure dynamics to estimate the term premia and inflation risk premia embedded in U.S. and euro area bonds yields. We find that the fall in real risk premia has been the primary driver of declining yields, especially over the past year, given ECB assets purchases and forward guidance which lowered the uncertainty over the projected path of short-term rates. In addition, contrary to the Fed, the ECB’s new strategy review has yet to lift inflation expectations with financial markets expecting inflation to remain below 2 percent. We subsequently present a model of the term premia to forecast the euro area 10-year yield curve and find that yields will likely remain depressed over the medium-term under various scenarios.
