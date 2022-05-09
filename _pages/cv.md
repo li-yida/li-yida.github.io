@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-
-
+<!--
 Please find my PDF version CV [here](https://li-yida.github.io/files/Li_CV.pdf).
+-->
+
+
 
 Education
 ======
