@@ -17,9 +17,9 @@ Please find my PDF version CV [here](https://li-yida.github.io/files/Li_CV.pdf).
 
 Education
 ======
-* Ph.D. in Economics, University of Washington, Seattle, 2022 (expected)
-* M.A. in Economics, University of Michigan, Ann Arbor, 2016
-* B.A. in International Finance, Fudan University, China, 2014
+* Ph.D. in Economics, University of Washington, Seattle
+* M.A. in Economics, University of Michigan, Ann Arbor
+* B.A. in International Finance, Fudan University, China
 
 
 Fields
@@ -55,20 +55,17 @@ Professional Experience
   * Fund Internship Program, European Department
 
 * China Merchants Securities, Shenzhen, China, 2016
-  * Summer Analyst, Investment Bank
- 
-* Guotai Junan Securities, Shanghai, China, 2014
-  * Analyst, Fixed Income, Currency and Commodity
+  * Analyst, Investment Banking
 
   
 Teaching
 ======
-* Instructor / Teaching Assistant, Department of Economics, University of Washington, since 2017
+* Instructor / Teaching Assistant, Department of Economics, University of Washington
    * Computational Finance and Financial Econometrics (Undergraduate)
    * Introduction to Microeconomics (Undergraduate)
    * Introduction to Macroeconomics (Undergraduate)
 
-* Teaching Assistant, Foster School of Business, University of Washington, since 2018
+* Teaching Assistant, Foster School of Business, University of Washington
   * Financial Management (Executive MBA)
   * International Finance (MBA and Executive MBA)
   * Business Finance / Corporate Finance (Undergraduate)
