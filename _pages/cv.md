@@ -11,8 +11,6 @@ redirect_from:
 
 <!--
 Please find my PDF version CV [here](https://li-yida.github.io/files/Li_CV.pdf).
--->
-
 
 
 Education
@@ -85,4 +83,4 @@ Skills
 * Other: MS Excel, Bloomberg, Dealogic, Datastream
 * Language: English (full professional), Chinese (native)
   
-
+-->
