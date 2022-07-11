@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* Instructor / Teaching Assistant, Department of Economics
+* Instructor / Teaching Associate, Department of Economics
 
 <!--
    * Computational Finance and Financial Econometrics (Undergraduate)
@@ -13,7 +13,7 @@ author_profile: true
    * Introduction to Macroeconomics (Undergraduate)
 -->
 
-* Teaching Assistant, Foster School of Business
+* Teaching Associate, Foster School of Business
 
 <!--
   * Financial Management (Executive MBA)
